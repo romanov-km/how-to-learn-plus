@@ -2,5 +2,6 @@
   flex-basis: 711px;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   position: relative;
 }

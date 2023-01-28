@@ -2,8 +2,3 @@
   margin: 0;
   padding: 0;
 }
-
-.resources__link:hover {
-  opacity: 0.3;
-  transition: opacity 1s ease;
-}
